@@ -1,1 +1,1 @@
-The project involves the task to build for  Telecom company a Logistic Regression Machine Learning model that predicts which of their customers are likely to churn (stop using their service in future).
+The project involves the task to build a Logistic Regression Machine Learning model for Telecom company that predicts which of their customers are likely to churn (stop using their service in future).
