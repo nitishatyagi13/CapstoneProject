@@ -1,1 +1,1 @@
-The project involves the task to build a Logistic Regression Machine Learning model for Telecom company that predicts which of their customers are likely to churn.Exploratory Data Analysis is done to generate various outcomes that can lead to prevention of Customer Churning .
+The project involves the task to build a Logistic Regression Machine Learning model for Telecom company that predicts which of their customers are likely to churn.Exploratory Data Analysis is done to generate various outcomes that lead to prevention of Customer Churning .
